@@ -31,7 +31,7 @@ setup(
         'urllib3==1.22',
         'coreapi==2.3.3',
         'coreapi-cli==1.0.6',
-        'djangorestframework==3.7.7',
+        'djangorestframework==3.11.2',
         'django-easy-pdf==0.1.1',
         'WeasyPrint==0.42',
         'PyBurprestapi==0.1',
