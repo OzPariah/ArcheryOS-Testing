@@ -29,7 +29,7 @@ httplib2==0.11.3
 idna==2.6
 ipaddress==1.0.18
 itypes==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 jira==1.0.10
 MarkupSafe==1.0
 oauthlib==2.0.7
