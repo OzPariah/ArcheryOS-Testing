@@ -41,7 +41,7 @@ Pillow==5.1.0
 PyBurprestapi==0.1
 pycparser==2.18
 PyJWT==1.6.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 Pyphen==0.9.4
 python-owasp-zap-v2.4==0.0.13
 python-whois==0.6.2
